@@ -11,3 +11,21 @@ Topics to focus:
 8. css animations
 */
 
+/* always start with this aka bolierplate */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+/* 3. understanding width and height */
+#main{
+    width : 20%;
+    height: 30%;
+    background-color: black;
+}
